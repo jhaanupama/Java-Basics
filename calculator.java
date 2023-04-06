@@ -13,9 +13,9 @@ class Calculator{
          operator= input.next().charAt(0);
 
          // taking inputs of the two numbers
-         System.out.println("Enter number1");
+         System.out.println("Enter number 1");
          num1=input.nextDouble() ;
-         System.out.println("Enter number2");
+         System.out.println("Enter number 2");
          num2=input.nextDouble();
 
     switch (operator) {
