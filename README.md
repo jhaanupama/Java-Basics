@@ -1,1 +1,3 @@
-## A simple Java Calculator cli
+## Learning the concepts of Java
+
+1. Calculator Using switch and cli
