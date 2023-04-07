@@ -1,4 +1,5 @@
 ## Learning the concepts of Java
 
 1. Calculator Using switch and cli
-2. BufferReader
+2. Calculator using if/else
+3. BufferReader
