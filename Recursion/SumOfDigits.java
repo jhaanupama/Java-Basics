@@ -1,11 +1,11 @@
 package Recursion;
 
-public class Armstrong {
+public class SumOfDigits {
     public static void main(String[] args) {
 
         int sum = 0;
         Sum(123, sum);
-        System.out.println(sum);
+       
     }
 
     static void Sum(int num, int sum) {
@@ -18,7 +18,7 @@ public class Armstrong {
         int index = num % 10;
 
         //System.out.println(index);
-        sum = sum + index * index * index;
+        sum = sum + index ;
         //System.out.println(num);
        
         Sum(num / 10, sum);
