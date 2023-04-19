@@ -22,7 +22,7 @@ public class Armstrong {
         }
         int index= num%10;
         sum=sum+ index*index*index;
-        System.out.println(sum);
+        //System.out.println(sum);
         num(num/10,sum,num1);
 
     }
