@@ -5,4 +5,6 @@
 3. BufferReader
 4.Basics of Classes and Objects
 5. Address directory using java
-
+6. Print star pattern using java
+7.Stacks and queues in java
+8. Recurssion
